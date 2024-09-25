@@ -1,4 +1,4 @@
 git init
-git commit
+git cotrract
 git add--all(staging)
 git push
